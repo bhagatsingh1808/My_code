@@ -1,3 +1,5 @@
+//Given a series 7,15,32,67.....Find the nth term.
+
 import java.io.*;
 import java.util.*;
 

@@ -1,3 +1,8 @@
+/* it takes a string input. which represemts  stone of different colors on the table. 
+person selects stones randomly. now we have two detect how many different colors of stones are there? */
+
+
+
 import java.io.*;
 import java.util.*;
 

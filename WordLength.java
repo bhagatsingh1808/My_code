@@ -1,6 +1,6 @@
 /*: we write down the first and the last letter of a word and between long words we write the number of letters between the first and the last letters. That number is in decimal system and doesn't contain any leading zeroes.
 
-Thus, "localization" will be spelt as "l10n", and "internationalization» will be spelt as "i18n".
+Thus, "localization" will be spelt as "l10n", and "internationalizationÂ» will be spelt as "i18n".*/
 
 
 
